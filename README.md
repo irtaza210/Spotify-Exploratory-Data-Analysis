@@ -1,4 +1,6 @@
 # Spotify-Exploratory-Data-Analysis
+A Jupyter Notebook that analyzes data of more than 175,000 songs on Spotify using Python libraries such as Matplotlib, Seaborn, & Pandas to discover what makes a song popular among users.
+
 
 <img width="394" alt="Screen Shot 2021-05-07 at 6 25 02 PM" src="https://user-images.githubusercontent.com/54458381/117517463-b5b29400-af61-11eb-8679-391e32f15492.png">
 
